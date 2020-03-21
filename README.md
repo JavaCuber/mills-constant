@@ -4,6 +4,4 @@
 Computed using the 13th Mills PRP.
 Verified using the 14th Mills PRP.
 
-Computed by A. Vorwerk
-
 The computation is under the assumption that the Riemann hypothesis is true.
