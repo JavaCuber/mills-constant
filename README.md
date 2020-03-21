@@ -3,3 +3,5 @@
 
 Computed with the 13th Mills PRP.
 Verified with the 14th Mills PRP.
+
+Computed by A. Vorwerk
